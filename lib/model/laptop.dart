@@ -129,5 +129,52 @@ var listLaptop = [
         "15.6” Display with IPS technology, 1920x1080 pixels, 144Hz refresh rate",
     os: "Windows 11 Home",
     release: "January 2023",
+  ),
+  Laptop(
+    name: "Lenovo Yoga Pro 7i",
+    description: [
+      "Yoga Pro 7i merupakan salah satu produk dirancang untuk memberikan pengalaman premium, bersama dengan jajaran Yoga Pro  lain sebagai produk yang paling kuat dan tahan banting.",
+      "Tidak tanggung-tanggung, generasi perangkat Yoga Pro ini memiliki fitur Lenovo Premium Suite baru, mencakup empat mikrofon untuk pengalaman video dan audio yang lebih baik, empat speaker pengurang kebisingan, kipas yang lebih senyap, dan trackpad yang lebih besar untuk penanganan konten yang lebih mudah dan efisiensi yang lebih baik secara keseluruhan.",
+      "Yoga Pro 7i yang powerful dan ramping memiliki layar PureSight Pro 14,5 inci dengan resolusi hingga 3K, kecerahan 400 nits, dan kecepatan refresh 120Hz yang dipadukan dengan GPU laptop NVIDIA® RTX ™ 4050 serta bersertifikat NVIDIA® Studio, menjadikannya laptop berkinerja tinggi yang ideal bagi para kreator konten yang melakukan banyak pekerjaan.",
+      "Dengan baterai besar 73 watt-jam dan teknologi Rapid Charge Express, laptop setipis 15,6 mm ini memberikan pengalaman yang lebih tenang dan lebih dingin, apa pun beban kerja yang diminta.",
+    ],
+    image: "https://cdn1.productnation.co/stg/sites/5/64cb9d22ef617.jpg",
+    price: "21.900.000",
+    ram: "16GB LPDDR5X 6400Mhz, Dual Channel",
+    advantages: [
+      "Cocok digunakan untuk berbagai aktivitas.",
+      "Ringan dan kuat.",
+      "Tipis tapi tidak ringkih. "
+    ],
+    processor: "Intel® Core™ i7-13700H",
+    rom: "PCIE Gen 4 M.2: 512GB",
+    graphic: "Intel Iris® Xe",
+    screen:
+        "14.5'' 2.5K (2560 x 1600) IPS, 90 Hz, 16:10, 350 nits, 100% sRGB, TÜV Low Blue Light Certification, Eyesafe Certification, Matte",
+    os: "Windows 11",
+    release: "2022",
+  ),
+  Laptop(
+    name: "HUAWEI MateBook X Pro 2021",
+    description: [
+      "Bagi kamu penggemar laptop HUAWEI, seri MateBook X Pro 2021 tidak bisa kamu lewatkan begitu saja. Laptop ini dibekali dengan banyak fitur canggih dan kekinian, salah satunya adalah processor Intel core i7-1165G7 generasi 11. Selain itu, kartu grafis yang dipakai adalah Intel Iris Xe Graphics, yang mana merupakan satu dari beberapa GPU terbaik yang pernah diproduksi oleh Intel.",
+      "Untuk RAM yang dipakai adalah LPDDR4x 4,266 MHz dengan kapasitas sebesar 16GB. Internalnya sendiri juga sudah menggunakan SSD NVMe PCIe berkapasitas 1TB. Tidak ketinggalan pula ada fitur tombol daya sidik jari dan touchpad dengan multi-touch.",
+      "Layarnya juga berkualitas, dibuktikan dengan penggunaan panel layar LTPS berukuran 13,9 inci. Ukuran bezel-nya pun terbilang tipis, dengan rasio layar ke bodi mencapai 91%. Kualitas gambar yang dihasilkan juga sangat enak dipandang mata berkat penggunaan resolusi 3000 x 2000 dengan 260 PPI, gamut warna 100% sRGB, dan rasio kontras 1.500:1. Ada juga sensor cahaya untuk menyesuaikan kecerahan layar secara otomatis."
+    ],
+    image: "https://cdn1.productnation.co/stg/sites/5/62d0fe05cafde.webp",
+    price: "27.000.000",
+    ram: "16GB",
+    advantages: [
+      "Kualitas gambar di layar tajam dan jernih.",
+      "Performa mumpuni.",
+      "Bobot ringan."
+    ],
+    shortage: ["Harga kurang terjangkau."],
+    processor: "Intel Core i7-1165G7",
+    rom: "1TB SSD",
+    graphic: "",
+    screen: '13.9" (3:2) LTPS (3000x2000), 100% sRGB, 60Hz',
+    os: "Windows 10 Home",
+    release: "2021",
   )
 ];
