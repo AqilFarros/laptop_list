@@ -176,5 +176,29 @@ var listLaptop = [
     screen: '13.9" (3:2) LTPS (3000x2000), 100% sRGB, 60Hz',
     os: "Windows 10 Home",
     release: "2021",
+  ),
+  Laptop(
+    name: "Acer Predator Helios Neo 16 PHN16-71-72DN",
+    description: [
+      "Jika kamu sedang mencari laptop gaming yang juga bisa diandalkan untuk editing, maka Acer Predator Helios Neo 16 ini bisa jadi pilihan. Disamping penggunaan prosesor terbaru dari Intel, penggunaan kartu grafis NVIDIA® GeForce® RTXTM 4060 membuat laptop ini dapat menghasilkan performa yang luar biasa.",
+      "Sedangkan dari sisi tampilan, laptop ini terasa cukup solid dengan material aluminium dan polycarbonate. Belum lagi penggunaan 3D Aeroblade Fan generasi ke-5 yang bisa membuat performa dan daya tahan laptop jadi lebih stabil, dengan 55% airflow yang lebih baik.",
+      "Lalu untuk kamu yang bekerja di bidang grafis, laptop ini bisa mendukung aktivitas kamu berkat visual yang mengagumkan, hasil dari kombinasi layar 16 inci dengan ratio 16:10 serta refresh rate mencapai 165 Hz. Belum lagi, ada fitur NVIDIA G-SYNC dan Advanced Optimus untuk menghasilkan grafis yang maksimum.",
+    ],
+    image: "https://cdn1.productnation.co/stg/sites/5/64cb6d7113f6a.jpg",
+    price: "26.000.000",
+    ram: "16GB",
+    advantages: [
+      "Desain futuristik dan unik.",
+      "Prosesor generasi terbaru.",
+      "Layar dan grafis jernih.",
+      "Proses editing yang cepat dengan Intel Core 13th gen.",
+    ],
+    processor: "13th Gen Intel® Core i7-13700HX",
+    rom: "1tB SSD",
+    graphic: "NVIDIA® GeForce RTX™ 4060 with 8 GB of dedicated GDDR6 VRAM",
+    screen:
+        "16” Display with IPS technology, WQXGA 165 Hz, 500 nits, sRGB 100% 16 : 10",
+    os: "Windows 11 Home",
+    release: "April 2023",
   )
 ];

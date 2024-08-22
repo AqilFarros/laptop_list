@@ -1,3 +1,4 @@
+import 'package:challange/card_sweeper.dart';
 import 'package:challange/main_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -11,6 +12,6 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MainScreen();
+    return const CardSweeper();
   }
 }
