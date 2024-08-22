@@ -90,6 +90,7 @@ class DetailScreen extends StatelessWidget {
                       children: [
                         ListView.builder(
                           shrinkWrap: true,
+                          physics: const NeverScrollableScrollPhysics(),
                           itemBuilder: (BuildContext context, int index) {
                             return Container(
                               margin: const EdgeInsets.symmetric(vertical: 4.0),
@@ -115,6 +116,7 @@ class DetailScreen extends StatelessWidget {
                         ),
                         ListView.builder(
                           shrinkWrap: true,
+                          physics: const NeverScrollableScrollPhysics(),
                           itemBuilder: (BuildContext context, int index) {
                             return Container(
                               margin: const EdgeInsets.symmetric(vertical: 4.0),
@@ -296,6 +298,7 @@ class DetailScreen extends StatelessWidget {
                     child: Column(
                       children: [
                         ListView.builder(
+                          physics: const NeverScrollableScrollPhysics(),
                           shrinkWrap: true,
                           itemBuilder: (BuildContext context, int index) {
                             return Container(
