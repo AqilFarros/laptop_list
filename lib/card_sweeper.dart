@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:appinio_swiper/appinio_swiper.dart';
 import 'package:challange/model/laptop.dart';
-import 'example_candidate_model.dart';
 import 'example_card.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
